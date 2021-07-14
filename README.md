@@ -3,7 +3,7 @@
 - 👀 I’m interested in Back-End Technologies
 - 🌱 I’m currently learning Python, COBOL, Java, and .NET Core
 - 📫 You can reach me through my LinkedIn profile: 
-      [<img align="left" alt="Mert Mirkan Arslan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mert-mirkan-arslan/)
+- [<img align="left" alt="Mert Mirkan Arslan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mert-mirkan-arslan/)
 
 <!---
 mertmirkanarslan/mertmirkanarslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
